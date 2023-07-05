@@ -7,7 +7,7 @@ Here's a high-level overview of the alternative approach:
 - Install the oauth2client library using pip install oauth2client.
 2. Authenticate and access Google Sheets:
 - Follow the steps to create a client secret file:
-  --Go to the Google Developers Console (console.developers.google.com).
+  -- Go to the Google Developers Console (console.developers.google.com).
 - -Create a new project (if not already created).
 - -Enable the Google Sheets API for your project.
 - -Create OAuth 2.0 credentials (Client ID and Client Secret).
