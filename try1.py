@@ -17,7 +17,7 @@ def try1():
     
     wks= sh.worksheet("總覽")
     wks.insert_row([1000],2)
-    print(wks.get_all_records())
+    print(wks.get_values())
     
     
     return 0
