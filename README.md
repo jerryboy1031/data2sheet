@@ -8,9 +8,9 @@ Here's a high-level overview of the alternative approach:
 2. Authenticate and access Google Sheets:
 - Follow the steps to create a client secret file:
   
-- -  Go to the Google Developers Console (console.developers.google.com).
-- - Create a new project (if not already created).
-- - Enable the Google Sheets API for your project.
-- - Create OAuth 2.0 credentials (Client ID and Client Secret).
-- - Download the client secret JSON file.
+  -  Go to the Google Developers Console (console.developers.google.com).
+  - Create a new project (if not already created).
+  - Enable the Google Sheets API for your project.
+  - Create OAuth 2.0 credentials (Client ID and Client Secret).
+  - Download the client secret JSON file.
 - Use the gspread library and the OAuth 2.0 flow to authenticate and access Google Sheets:
