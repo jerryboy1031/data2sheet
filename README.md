@@ -1,21 +1,13 @@
 # data2sheet
 ### using the OAuth 2.0 authorization flow to authenticate and access Google Sheets.
 
-
-
-# googlemap-link
-### To generate a Google Maps link for a location using the Google Maps API in Python, and access the address.
-
 <p align="center">
-    <img src=".vscode/map_api.png" width="400">
+    <img src=".vscode/cover.png" width="400">
     <br>
-    <sup>the figure is accessed from https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fgoogle-maps-api%2Freviews&psig=AOvVaw2192seiQ-dMx0UHcZSS4Xt&ust=1706602079859000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCIDf7aySgoQDFQAAAAAdAAAAABAD
+    <sup>figure is provided by 陳佳俊
     </sup>
 </p>
 
-
-
-[**googlemap-link**](https://github.com/jerryboy1031/googlemap-link) 
 
 It is **authored by** [**陳佳俊**](https://github.com/jerryboy1031). It is **maintained by** [**陳佳俊**](https://github.com/jerryboy1031).
 
